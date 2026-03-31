@@ -1,0 +1,1 @@
+working-copy://x-callback-url/clone?key=N298CMJV57&remote=ssh://git%40github.com/CASABECI/codex
